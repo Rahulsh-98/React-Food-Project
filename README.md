@@ -24,9 +24,7 @@ This is a modern front-end application built using **React**, **Vite**, and **Ta
 
 ## 📁 Project Structure
 
-```
-
-├── public/
+── public/
 ├── src/
 │   ├── components/
 │   ├── pages/
