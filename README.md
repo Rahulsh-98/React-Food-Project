@@ -1,7 +1,5 @@
 # React-Food-Project
-Here is a professional README for your React + Vite project and a concise one-liner you can use on your resume:
 
----
 
 ### 📄 **README.md**
 
@@ -82,9 +80,4 @@ npm run preview
 * **Form Management**: Formik + Yup
 * **Linting/Formatting**: ESLint, Prettier
 
-```
 
----
-
-
-```
